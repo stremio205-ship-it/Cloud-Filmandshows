@@ -1,0 +1,10 @@
+[
+  {
+    "name": "MyFirstPlugin",
+    "description": "İlk CloudStream eklentim",
+    "version": 1,
+    "author": "stremio205-ship-it",
+    "language": "tr",
+    "url": "https://raw.githubusercontent.com/stremio205-ship-it/Cloud-Filmandshows/main/MySource.zip"
+  }
+]
